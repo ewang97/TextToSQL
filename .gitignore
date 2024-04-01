@@ -396,3 +396,19 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+data.tar.bz2
+data/dev_tok.jsonl
+data/dev_tok.tables.jsonl
+data/dev.db
+data/test_tok.jsonl
+data/test_tok.tables.jsonl
+data/test.db
+data/train_tok.jsonl
+data/train_tok.tables.jsonl
+data/train.db
+data_resplit/dev.jsonl
+data_resplit/table.db
+data_resplit/tables.jsonl
+data_resplit/test.jsonl
+data_resplit/train.jsonl
+glove/glove.42B.300d
